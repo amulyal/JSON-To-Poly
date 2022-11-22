@@ -1,0 +1,30 @@
+{
+  "name": "json-to-poly",
+  "version": "1.0.0",
+  "description": "Converts JSON format coordinates to Poly format coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amulyal/JSON-To-Poly.git"
+  },
+  "keywords": [
+    "JSON",
+    "Poly",
+    "Polygon",
+    "GeoJSON",
+    "React",
+    "ReactJS"
+  ],
+  "author": "Amulya Lakshmisha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amulyal/JSON-To-Poly/issues"
+  },
+  "homepage": "https://github.com/amulyal/JSON-To-Poly#readme",
+  "dependencies": {
+    "geojson-extract-geometries": "^0.0.2"
+  }
+}
